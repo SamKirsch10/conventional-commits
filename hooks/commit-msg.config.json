@@ -2,7 +2,7 @@
     "enabled": true,
     "revert": true,
     "length": {
-        "min": 1,
+        "min": 5,
         "max": 52
     },
     "types": [
